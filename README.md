@@ -1,7 +1,7 @@
 # OnlineDataAggregator
 This is an Android course teamwork project.The application contained 4 activities retrieving data from BBC News, Guardian News, NASA Planetary and Bing Maps.
 The individual part -- BBC News activity implement features as below:
-#
+*
 1	Retrieved the latest news from BBC and displayed the titles in a news list.
 2	Added favorites list support so news could be added to a favorites list for later viewing.
 3	Added delete support for news in the favorites list.
